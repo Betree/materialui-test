@@ -1,0 +1,7 @@
+extends: airbnb
+rules:
+  # Semicolon
+  semi: ['warn', 'never']
+  # React
+  react/jsx-filename-extension: ['off']
+  react/prop-types: ['off']
